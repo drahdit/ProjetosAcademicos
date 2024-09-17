@@ -1,3 +1,7 @@
+/*Faça um algoritmo que leia uma temperatura em Fahrenheit a apresente convertida 
+em graus Celsius. A fórmula de conversão é C = (F – 32) * (5 / 9), na qual F é a 
+temperatura em Fahrenheit C é a temperatura em Celsius. */
+
 import javax.swing.JOptionPane;
 
 public class Exercicio15 {
