@@ -1,3 +1,16 @@
+/*Faça um algoritmo que: 
+• Obtenha o valor para a variável HT (horas trabalhadas no mês) digitado pelo 
+usuário; 
+• Obtenha o valor para a variável VH (valor hora trabalhada) digitado pelo 
+usuário; 
+• Obtenha o valor para a variável PD (percentual de desconto) digitado pelo 
+usuário; 
+• Calcule o salário bruto => SB = HT * VH; 
+• Calcule o total de desconto => TD = (PD/100)*SB; 
+• Calcule o salário líquido => SL = SB – TD; 
+• Exiba na tela os valores de: Horas trabalhadas, Salário Bruto, Desconto, Salário 
+Liquido.*/
+	
 import javax.swing.JOptionPane;
 
 public class Exercicio13 {
